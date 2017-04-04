@@ -1,3 +1,3 @@
 ;(function () {
-  console.log('I am the module');
+  console.log('I am a module');
 }());
